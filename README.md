@@ -33,5 +33,8 @@ As pessoas envolvidas (grupo de interesse) vão desde os acionistas e o administ
 
 A matriz CSD consiste em reunir as Certezas, Suposições e Duvidas em relação ao projeto.
 
-[Matriz CSD finalizada](https://miro.com/app/board/uXjVPuwwkqg=/?share_link_id=77116067631)
+**Certezas:** é tudo aquilo que já foi definido no projeto, tudo que a equipe já sabe (por exemplo, empresa quer um website constitucional, a certeza é, temos que criar um website e esse website terá dados sobre a empresa, ramo de atuação e etc.).
+**Suposições:** é tudo aquilo que achamos que são verdades, mas não temos certeza, podendo ser hipóteses, intuições, etc, o ideal é validar essas suposições (seja por testes A/B, entrevistas, criação de personas, etc) e verificar se são reais. (por exemplo, achamos que um site institucional ajude a melhorar o branding da marca, trazendo reconhecimento e novos clientes, com essa suposição, medimos o fluxo de pessoas no site, fazemos campanha de branding e com isso analisamos se os clientes aumentaram).
+**Dúvidas:** é tudo aquilo que o time não sabe em relação ao projeto e precisa descobrir, com base nas dúvidas criamos suposições, que, após testes e validações, viram certezas.
 
+[Matriz CSD finalizada](https://miro.com/app/board/uXjVPuwwkqg=/?share_link_id=77116067631)
