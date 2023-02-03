@@ -38,3 +38,6 @@ A matriz CSD consiste em reunir as Certezas, Suposições e Duvidas em relação
 **Dúvidas:** é tudo aquilo que o time não sabe em relação ao projeto e precisa descobrir, com base nas dúvidas criamos suposições, que, após testes e validações, viram certezas.
 
 [Matriz CSD finalizada](https://miro.com/app/board/uXjVPuwwkqg=/?share_link_id=77116067631)
+
+
+## Segunda Semana
